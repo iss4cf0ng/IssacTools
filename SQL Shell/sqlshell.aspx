@@ -3,15 +3,15 @@
 var msg=false;
 var err:Exception;
 try {
-    var Conn=new ActiveXObject("Adodb.connection");
-    var strSQL:String=Request.Item["sql"];
-    var db:String=Request.Item["db"];
-    var host:String=Request.Item["host"];
-    var user:String=Request.Item["user"];
-    var pass:String=Request.Item["pass"];
-    var conn_str:String="Driver={Sql Server};"+"Server={"+host+"};Database={"+db+"};Uid={"+user+"};Pwd={"+pass+"}";
-    Conn.ConnectionString=conn_str;
-    Conn.ConnectionTimeout=10;
+    var Conn                   = new ActiveXObject("Adodb.connection");
+    var strSQL:String          = Request.Item["sql"];
+    var db:String              = Request.Item["db"];
+    var host:String            = Request.Item["host"];
+    var user:String            = Request.Item["user"];
+    var pass:String            = Request.Item["pass"];
+    var conn_str:String        = "Driver={Sql Server};"+"Server={"+host+"};Database={"+db+"};Uid={"+user+"};Pwd={"+pass+"}";
+    Conn.ConnectionString      = conn_str;
+    Conn.ConnectionTimeout     = 10;
     Conn.Open();
     Response.Write("Connect successfully![MSG]");
     msg=true;
