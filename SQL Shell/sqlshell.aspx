@@ -1,5 +1,11 @@
 <%@ Page Language="JScript"%>
 <%
+//.o0o.======================[README]======================.o0o.
+//Powered by ISSAC
+//https://github.com/malbuffer4pt/IssacTools
+//Environment : xampp + apache + windows11 + php 8.2.4
+//.o0o.======================[README]======================.o0o.
+
 var msg=false;
 var err:Exception;
 try {
