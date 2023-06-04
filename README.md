@@ -10,4 +10,5 @@
 [+]ChromeDumper\
 [+]TCP Handler\
 [+]Brute Force - 1433,3306\
-[+]SQL Shell
+[+]SQL Shell\
+[+]SiteHunterV1.0.0
