@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+SiteHunterV1.0.0.zip filter=lfs diff=lfs merge=lfs -text
