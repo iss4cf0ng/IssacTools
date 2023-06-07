@@ -8,13 +8,13 @@
 如非法使用則後果自負
 
 ## Language
-[+]C Language
-[+]Python
-[+]PHP
-[+]ASP Classic
-[+]ASP.NET
-[+]JSP
-[+]HTML
+[+]C Language  
+[+]Python  
+[+]PHP  
+[+]ASP Classic   
+[+]ASP.NET  
+[+]JSP  
+[+]HTML  
 
 ## Tools
 [+]ChromeDumper\
