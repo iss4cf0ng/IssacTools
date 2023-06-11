@@ -18,7 +18,7 @@
 
 ## Language
 [+]C Language  
-[+]C++
+[+]C++  
 [+]C#   
 [+]Python  
 [+]PHP  
