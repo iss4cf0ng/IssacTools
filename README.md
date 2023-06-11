@@ -7,8 +7,18 @@
 工具只限用於合法滲透測試和學習用途\
 如非法使用則後果自負
 
+## Tools
+[+]ChromeDumper\
+[+]BlackHat SEO
+[+]TCP Handler\
+[+]Brute Force - 1433,3306\
+[+]SQL Shell\
+[+]SiteHunterV1.0.0  
+[+]PyShell
+
 ## Language
 [+]C Language  
+[+]C++
 [+]C#   
 [+]Python  
 [+]PHP  
@@ -16,11 +26,3 @@
 [+]ASP.NET  
 [+]JSP  
 [+]HTML  
-
-## Tools
-[+]ChromeDumper\
-[+]BlackHat SEO
-[+]TCP Handler\
-[+]Brute Force - 1433,3306\
-[+]SQL Shell\
-[+]SiteHunterV1.0.0
