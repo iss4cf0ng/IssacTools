@@ -9,7 +9,7 @@
 
 ## Tools
 [+]ChromeDumper\
-[+]BlackHat SEO
+[+]BlackHat SEO  
 [+]TCP Handler\
 [+]Brute Force - 1433,3306\
 [+]SQL Shell\
