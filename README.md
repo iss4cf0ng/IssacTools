@@ -20,6 +20,7 @@
 [+]C Language  
 [+]C++  
 [+]C#   
+[+]PowerShell   
 [+]Python  
 [+]PHP  
 [+]ASP Classic   
