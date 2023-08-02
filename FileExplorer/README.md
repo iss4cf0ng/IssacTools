@@ -7,4 +7,4 @@
 所以寫了一個Recursion出來
 
 #Screenshot
-![](1.png)
+![](https://github.com/malbuffer4pt/IssacTools/blob/main/1.png)
