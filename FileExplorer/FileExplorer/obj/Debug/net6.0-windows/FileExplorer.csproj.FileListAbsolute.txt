@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\FileExplorer\FileExplorer\bin\Debug\net6.0-windows\FileExplorer.exe
+C:\Users\user\source\repos\FileExplorer\FileExplorer\bin\Debug\net6.0-windows\FileExplorer.deps.json
+C:\Users\user\source\repos\FileExplorer\FileExplorer\bin\Debug\net6.0-windows\FileExplorer.runtimeconfig.json
+C:\Users\user\source\repos\FileExplorer\FileExplorer\bin\Debug\net6.0-windows\FileExplorer.dll
+C:\Users\user\source\repos\FileExplorer\FileExplorer\bin\Debug\net6.0-windows\FileExplorer.pdb
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.Form1.resources
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.AssemblyInfo.cs
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.dll
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\refint\FileExplorer.dll
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.pdb
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\FileExplorer.genruntimeconfig.cache
+C:\Users\user\source\repos\FileExplorer\FileExplorer\obj\Debug\net6.0-windows\ref\FileExplorer.dll
