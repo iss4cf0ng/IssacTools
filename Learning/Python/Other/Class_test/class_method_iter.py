@@ -13,5 +13,6 @@ class Fib():
             raise StopIteration
         self.a, self.b = self.b, self.a + self.b
         return fib
-    
-print([x for x in Fib(1000)])
+
+max = eval(input('Max > '))
+print([x for x in Fib(max=max)])
