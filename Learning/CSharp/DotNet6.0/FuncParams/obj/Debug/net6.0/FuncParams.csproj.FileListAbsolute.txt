@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\bin\Debug\net6.0\FuncParams.exe
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\bin\Debug\net6.0\FuncParams.deps.json
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\bin\Debug\net6.0\FuncParams.runtimeconfig.json
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\bin\Debug\net6.0\FuncParams.dll
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\bin\Debug\net6.0\FuncParams.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.AssemblyInfo.cs
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.dll
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\refint\FuncParams.dll
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\FuncParams.genruntimeconfig.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncParams\obj\Debug\net6.0\ref\FuncParams.dll

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\bin\Debug\net6.0\Class_Test.exe
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\bin\Debug\net6.0\Class_Test.deps.json
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\bin\Debug\net6.0\Class_Test.runtimeconfig.json
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\bin\Debug\net6.0\Class_Test.dll
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\bin\Debug\net6.0\Class_Test.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.AssemblyInfo.cs
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.dll
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\refint\Class_Test.dll
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\Class_Test.genruntimeconfig.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Class_Test\obj\Debug\net6.0\ref\Class_Test.dll

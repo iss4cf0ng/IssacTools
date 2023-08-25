@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\bin\Debug\net6.0\FuncDynamic.exe
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\bin\Debug\net6.0\FuncDynamic.deps.json
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\bin\Debug\net6.0\FuncDynamic.runtimeconfig.json
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\bin\Debug\net6.0\FuncDynamic.dll
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\bin\Debug\net6.0\FuncDynamic.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.AssemblyInfo.cs
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.dll
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\refint\FuncDynamic.dll
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\FuncDynamic.genruntimeconfig.cache
+C:\Users\user\source\repos\DotNet6.0_demo\FuncDynamic\obj\Debug\net6.0\ref\FuncDynamic.dll
