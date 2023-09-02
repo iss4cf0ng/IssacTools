@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\bin\Debug\net6.0\Interface_test.exe
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\bin\Debug\net6.0\Interface_test.deps.json
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\bin\Debug\net6.0\Interface_test.runtimeconfig.json
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\bin\Debug\net6.0\Interface_test.dll
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\bin\Debug\net6.0\Interface_test.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.AssemblyInfo.cs
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.dll
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\refint\Interface_test.dll
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.pdb
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\Interface_test.genruntimeconfig.cache
+C:\Users\user\source\repos\DotNet6.0_demo\Interface_test\obj\Debug\net6.0\ref\Interface_test.dll
