@@ -1,1 +1,0 @@
-﻿Get-Process | ConvertTo-Html | Out-File "result.html"
